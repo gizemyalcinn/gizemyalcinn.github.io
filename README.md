@@ -1,4 +1,4 @@
-This is a personal web page created by me to showcase educational background, interests, and career aspirations. It is designed using simple HTML and CSS to present the information in a clear and professional layout.
+This is a personal web page created by me to showcase educational background, interests, and career aspirations. It is designed using simple HTML to present the information in a clear and professional layout.
 
 About This Web Page
 
